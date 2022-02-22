@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="screeshots/icon.png" width="100"><br>
+  <img src="screenshots/icon.png" width="100"><br>
   <a href="github.com/jiteshs7/Watcha.git" style="color: black"><span>Watcha</span></a><br>
 </h1>
 
@@ -15,13 +15,13 @@ Developed as a personal project, created using [React Native](https://facebook.g
 
 ## Screenshot
 
-<img src="screeshots/home.png" width="200" /> 
-<img src="screeshots/homeDark.png" width="200" /> 
-<img src="screeshots/list.png" width="200" /> 
-<img src="screeshots/listDark.png" width="200" /> 
-<img src="screeshots/detail.png" width="200" /> 
-<img src="screeshots/detailDark.png" width="200" /> 
-<img src="screeshots/demoImage.png" width="200" />
+<img src="screenshots/home.png" width="200" /> 
+<img src="screenshots/homeDark.png" width="200" /> 
+<img src="screenshots/list.png" width="200" /> 
+<img src="screenshots/listDark.png" width="200" /> 
+<img src="screenshots/detail.png" width="200" /> 
+<img src="screenshots/detailDark.png" width="200" /> 
+<img src="screenshots/demoImage.png" width="200" />
 
 ## Features
 
