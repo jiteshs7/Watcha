@@ -14,7 +14,7 @@ Movies and TV Show mobile application. Available for iOS and Android.
 Developed as a personal project, created using [React Native](https://facebook.github.io/react-native/) and [TMDb](https://www.themoviedb.org/) API.
 
 ## Screenshot
-
+<p justifyContent="space-between" >
 <img src="screenshots/home.png" width="200" /> 
 <img src="screenshots/homeDark.png" width="200" /> 
 <img src="screenshots/list.png" width="200" /> 
@@ -22,7 +22,7 @@ Developed as a personal project, created using [React Native](https://facebook.g
 <img src="screenshots/detail.png" width="200" /> 
 <img src="screenshots/detailDark.png" width="200" /> 
 <img src="screenshots/demoImage.png" width="200" />
-
+</p>
 ## Features
 
 - Search movie and tv show
